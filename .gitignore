@@ -3,3 +3,7 @@
 ################################################################################
 
 /ProductsApp/obj
+/ProductsApp/bin
+/ProductsApp/bin
+/ProductsCore
+/ProductsAppClient
