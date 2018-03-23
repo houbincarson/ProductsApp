@@ -9,6 +9,9 @@ using System.Web.SessionState;
 
 namespace ProductsApp
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class WebApiApplication : System.Web.HttpApplication
     {
         public override void Init()

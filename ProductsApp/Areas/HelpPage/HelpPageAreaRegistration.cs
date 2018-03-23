@@ -3,6 +3,9 @@ using System.Web.Mvc;
 
 namespace ProductsApp.Areas.HelpPage
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class HelpPageAreaRegistration : AreaRegistration
     {
         public override string AreaName
